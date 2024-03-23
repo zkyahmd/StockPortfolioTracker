@@ -1,8 +1,8 @@
-#Stock Portfolio Tracker
+**Stock Portfolio Tracker**
 
 **#Overview**
 
-Task Two for the CodeAlpha Python Internship involved developing a Stock Portfolio Tracker. The objective was to create a Python program that enables users to effectively manage their stock investments by providing functionalities to add, remove, and track the performance of stocks in real-time. Additionally, the task required utilizing financial APIs for fetching real-time stock data to enhance the tracking capabilities of the tool.
+Task Two for the CodeAlpha Python Internship involved developing a Stock Portfolio Tracker. The objective was to create a Python program that enables users to effectively manage their stock investments by providing functionalities to add, remove, and track the performance of stocks in real-time. 
 
 **#Features**
 
@@ -21,5 +21,7 @@ yfinance for fetching real-time stock data
 **#How to Use**
 
 Clone the repository to your local machine.
-Run the stock_portfolio_tracker.py file in your Python environment.
+
+Run the StockPortfolioTracker.py file in your Python environment.
+
 Follow the on-screen prompts to add stocks, remove stocks, track performance, and exit the program.
