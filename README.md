@@ -1,6 +1,7 @@
 #Stock Portfolio Tracker
 
 **#Overview**
+
 Task Two for the CodeAlpha Python Internship involved developing a Stock Portfolio Tracker. The objective was to create a Python program that enables users to effectively manage their stock investments by providing functionalities to add, remove, and track the performance of stocks in real-time. Additionally, the task required utilizing financial APIs for fetching real-time stock data to enhance the tracking capabilities of the tool.
 
 **#Features**
